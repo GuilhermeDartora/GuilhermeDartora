@@ -22,8 +22,8 @@ Desenvolvedor focado em soluções de **Backend**, entusiasta de arquitetura de 
 No seu perfil, você pode adicionar esses cards que atualizam automaticamente com suas métricas:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDartora&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDartora&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
@@ -36,4 +36,4 @@ No seu perfil, você pode adicionar esses cards que atualizam automaticamente co
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilhermedartora)
