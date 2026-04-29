@@ -1,4 +1,4 @@
-<h1 align="left">Oi, eu sou o Guilherme 👋</h1>
+<h1 align="left">Prazer, eu sou o Guilherme 👋</h1>
 
 - 🎓 Técnico em desenvolvimento de sistemas no IFRS
 - 🚀 Estudante de Análise e Desenvolvimento de Sistemas (PUCRS)
