@@ -9,8 +9,7 @@
 
 ### 👤 Sobre mim
 
-Sou um desenvolvedor focado em soluções de backend, apaixonado por resolver problemas complexos através de código limpo. Atualmente, estou trabalhando em um projeto onde uma árvore evolui através de sete estágios com base na pontuação do usuário. Busco sempre aplicar padrões de arquitetura e garantir a qualidade do software que entrego.
-
+Desenvolvedor focado em **Backend**, com forte compromisso na construção de sistemas sólidos e bem estruturados. Minha prática é pautada nos princípios de **boas práticas desenvolvimento** e em **agilidade**, priorizando sempre a escrita de códigos sustentáveis e de alta qualidade. Busco equilibrar o rigor técnico e os fundamentos de engenharia com a pragmática necessária para entregar soluções que gerem valor real ao negócio.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
