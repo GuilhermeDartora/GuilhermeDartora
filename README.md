@@ -1,15 +1,25 @@
 <h1 align="left">Prazer, eu sou o Guilherme 👋</h1>
 
-- 🎓 Técnico em desenvolvimento de sistemas no IFRS
-- 🚀 Estudante de Análise e Desenvolvimento de Sistemas (PUCRS)
-- 💻 **Backend Developer**
-- 📚 Tenho grande interesse em desenvolvimento e testes de software, arquitetura de software, boas práticas e cultura ágil.
+<p align="left">
+  Desenvolvedor Backend em formação, apaixonado por tecnologia, boas práticas de desenvolvimento,
+  arquitetura de software, testes e construção de soluções robustas que geram valor real.
+</p>
 
 ---
 
-**Sobre mim**
+### 👨‍💻 Sobre mim
 
-Desenvolvedor focado em **Backend**, com forte compromisso na construção de sistemas sólidos e bem estruturados. Minha prática é pautada nos princípios de **boas práticas de desenvolvimento** e em **agilidade**, priorizando sempre a escrita de códigos sustentáveis e de alta qualidade. Busco equilibrar o rigor técnico e os fundamentos de engenharia com a pragmática necessária para entregar soluções que gerem valor real ao negócio.
+- 🎓 Técnico em Desenvolvimento de Sistemas pelo IFRS
+- 🚀 Estudante de Análise e Desenvolvimento de Sistemas na PUCRS
+- 💻 Backend Developer
+- 📚 Interesse em desenvolvimento de software, testes, arquitetura, boas práticas e cultura ágil
+- 🧠 Foco em escrever códigos sustentáveis, bem estruturados e de alta qualidade
+
+Sou um desenvolvedor com foco em **Backend**, comprometido com a construção de sistemas sólidos, escaláveis e bem organizados.
+
+Minha prática é guiada por princípios de **boas práticas de desenvolvimento**, **qualidade de código**, **testes** e **agilidade**.
+
+Busco equilibrar fundamentos de engenharia de software com pragmatismo, entregando soluções que sejam tecnicamente consistentes e que também gerem valor real para o negócio.
 
 ---
 
@@ -29,15 +39,29 @@ Desenvolvedor focado em **Backend**, com forte compromisso na construção de si
 </p>
 
 ---
+---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDartora&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDartora&layout=compact&langs_count=7&theme=dark" />
+  <img 
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeDartora&theme=github_dark"
+    alt="Estatísticas do GitHub de Guilherme Dartora"
+  />
+  <img 
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeDartora&theme=github_dark"
+    alt="Linguagens com mais commits de Guilherme Dartora"
+  />
 </p>
 
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedartora)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilhermedartora" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
